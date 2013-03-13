@@ -4,19 +4,22 @@ permalink: /:month-:day-:year/:title.html
 theme:
 
   # Site name
-  site_name: I ❤ creating
+  site_name: A Monkey, No Djinni and me..
 
   # Google analytics UID
-  google_analytics_uid: UA-27533624-1
+  google_analytics_uid: xxx
 
   # Disqus shortname, for comments
-  disqus_shortname: stephan83
+  disqus_shortname: monkegjinni
 
   # Number of featured posts on homepage
-  homepage_featured: 1
+  homepage_featured: 3 
 
   # Number of posts on homepage (in addition to featured posts)
   homepage_posts: 2
 
   # Number of words to display in post summaries
-  featured_wordcount: 20
+  featured_wordcount: 25
+
+  # syntax highlighting with pygments
+  pygments: true
